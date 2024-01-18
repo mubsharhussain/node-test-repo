@@ -4,8 +4,8 @@ const app = express();
 
 app.get('/',(req,res) =>{
 
-	res.send('Hello from mubshar hussain! ');
-	res.send('test from github ');
+	res.send('Hello from mubshar hussain! hello ');
+	
 });
 
 
